@@ -1,4 +1,4 @@
-# vice-to-text-generation
+# vice-to-text-generation DeveloperMiyaan
 # AI-Powered Audio Transcription and Translation Web Application
 
 This project is a web-based application that allows users to upload audio files, automatically convert speech into text using OpenAI's Whisper model, and translate the resulting transcript into a user-selected language with GPT-4. The application is built with Flask, providing a simple and user-friendly interface while leveraging OpenAI's advanced AI models for accurate transcription and high-quality translation.
